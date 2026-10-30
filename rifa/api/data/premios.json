@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nombre": "Notebook", "descripcion": "Notebook 15 pulgadas, 8 GB RAM", "estado": "disponible"},
+    {"id": 2, "nombre": "Audífonos Bluetooth", "descripcion": "Audífonos inalámbricos con cancelación de ruido", "estado": "disponible"},
+    {"id": 3, "nombre": "Gift Card $50.000", "descripcion": "Tarjeta de regalo para tienda de tecnología", "estado": "entregado"}
+]
